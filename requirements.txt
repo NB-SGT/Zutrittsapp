@@ -1,0 +1,6 @@
+streamlit
+Pillow
+fpdf
+requests
+time
+urllib3
