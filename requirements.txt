@@ -1,6 +1,4 @@
 streamlit
-Pillow
-fpdf
 requests
-time
 urllib3
+fpdf
